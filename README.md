@@ -1,11 +1,14 @@
-# Hey, I'm a Software Engineering Enthusiast 👨‍💻
 
-**18 y/o | Aspiring Software Engineer**
 
-Interested in building software and understanding how things work beneath the surface.
+# Hey, I'm Kaique Rodrigues 👨‍💻
+
+**18 y/o | Aspiring Software Engineer | Full-Stack Web Developer**
+
+Interested in building software, developing web applications, and understanding how things work beneath the surface.
 
 - 🎓 Currently finishing high school.
-- 💻 Focused on Software Engineering.
+- 🌐 Full-Stack Web Development.
+- 💻 Software Engineering.
 - 🔍 Reverse Engineering & Binary Analysis.
 - 🎮 Game Hacking & Cheat Development.
 - 🤖 AI-assisted development & MCP.
@@ -15,7 +18,7 @@ Interested in building software and understanding how things work beneath the su
 ### Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs,ts,js,visualstudio,windows,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs,ts,js,html,css,react,visualstudio,windows,git&theme=dark" />
 </p>
 
 <p align="center">
@@ -37,3 +40,4 @@ Interested in building software and understanding how things work beneath the su
 <p align="center">
   <i>Always learning. Always building. Always exploring.</i>
 </p>
+
