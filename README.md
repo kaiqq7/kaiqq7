@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm a Software Engineering Enthusiast 👨‍💻
 
-<!--
-**kaiqq7/kaiqq7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**18 y/o | Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+Interested in building software and understanding how things work beneath the surface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently finishing high school.
+- 💻 Focused on Software Engineering.
+- 🔍 Reverse Engineering & Binary Analysis.
+- 🎮 Game Hacking & Cheat Development.
+- 🤖 AI-assisted development & MCP.
+
+---
+
+### Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs,ts,js,visualstudio,windows,git&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IDA_Pro-Reverse_Engineering-303030?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-AI_Tools-7451D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Game_Hacking-Development-8A2BE2?style=flat-square" />
+</p>
+
+---
+
+### Contribution Snake 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always exploring.</i>
+</p>
